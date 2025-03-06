@@ -1,0 +1,95 @@
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: color #f4f;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.certificate-container {
+    width: 800px;
+    height: 600px;
+    background-color: #fff;
+    background-image: url("pic.png");
+    border: 10px solid #e54283;
+    border-radius: 15px;
+    padding: 30px;
+    position: relative;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.certificate-header h1 {
+    font-size: 36px;
+    color: #d8e5e8;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.certificate-body {
+    margin: 40px 0;
+}
+
+.certificate-body p,
+.certificate-body h2,
+.certificate-body h3,
+.certificate-body h4 {
+    color: #f4ebeb;
+    font-weight: normal;
+}
+
+.certificate-body .certificate-text {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.certificate-body h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.certificate-body h3 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.certificate-body h4 {
+    font-size: 20px;
+    font-style: italic;
+    margin: 10px 0;
+}
+
+.certificate-footer {
+    position: absolute;
+    bottom: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 30px;
+}
+
+.signature, .seal {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.signature {
+    text-align: left;
+    color: #f8f0f0;
+	padding-left:2%;
+}
+
+.seal {
+    text-align: right;
+    color: #f5e7e7;
+    padding-right:14%;
+}

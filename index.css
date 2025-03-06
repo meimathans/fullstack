@@ -1,0 +1,38 @@
+nav .logo {
+    font-size: 30px;
+    font-weight: bold;
+    float: left;
+    color: rgb(245, 31, 30);
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    cursor: pointer; 
+}
+nav ul {
+    float: right;
+}
+nav li {
+    display: inline-block;
+    list-style: none;
+}
+nav li a {
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 0px 30px;
+    color:wheat;
+    text-decoration: none;
+}
+nav li a:hover {
+    color: orangered;
+    transition: all 0.4s ease 0s;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+  }
+  .row::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+ 

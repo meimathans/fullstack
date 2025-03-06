@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.certificate {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border: 10px solid orange;
+    background: #600000;
+    color: orange;
+    position: relative;
+		color:yellow;
+
+}
+
+
+
+.certificate-footer {
+    position: absolute;
+    bottom: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 30px;
+}
+
+.signature, .seal {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.signature {
+    text-align: left;
+    color: #f8f0f0;
+	padding-top:10%;
+}
+
+.seal {
+    text-align: right;
+    color: #f5e7e7;
+    padding-right: 10%;
+	padding-top:10%;
+}
+
+.print-btn {
+    margin-top: 20px;
+}
