@@ -161,7 +161,7 @@ background-image:linear-gradient(#746d63,#0d20ed);
             <h3>Basic Science Quiz</h3>
             <p>From: Feb 17, 2025 - To: Feb 22, 2026</p>
             <p>5 Questions | 50 sec Duration</p>
-            <a href="https://forms.gle/g7eKkZpkmfgfZFgWA" class="play-button">Play</a>
+            <a href="#" class="play-button">Play</a>
         </div>
         
         <div class="column">
@@ -170,7 +170,7 @@ background-image:linear-gradient(#746d63,#0d20ed);
           <h3>Advanced Mathematics Quiz</h3>
             <p>From: Feb 14, 2025 - To: Mar 15, 2026</p>
             <p>5 Questions | 50 sec Duration</p>
-            <a href="https://forms.gle/y7YJLoSFGZQN1cKr7" class="play-button">Play</a>
+            <a href="#" class="play-button">Play</a>
         </div>
         <div class="column">
           <h2>TOP QUIZ!</h2>
@@ -178,7 +178,7 @@ background-image:linear-gradient(#746d63,#0d20ed);
           <h3>Compound Interest Quiz</h3>
             <p>From: Feb 14, 2025 - To: Mar 15, 2027</p>
             <p>5 Questions | 50 sec Duration</p>
-            <a href="https://forms.gle/RkyACVf9SwSuqpocA" target="_self" class="play-button">play</a>
+            <a href="#" target="_self" class="play-button">play</a>
       </div>
     </div>
     <div class="row">
@@ -189,7 +189,7 @@ background-image:linear-gradient(#746d63,#0d20ed);
             <h3>Java Quiz</h3>
             <p>From: Feb 17, 2025 - To: Feb 22, 2026</p>
             <p>5 Questions | 50 sec Duration</p>
-            <a href="https://forms.gle/kyfwzFoVX3h8fBkp8" class="play-button">Play</a>
+            <a href="#" class="play-button">Play</a>
         </div>
         <div class="column">
           <h2>TOP QUIZ!</h2>
@@ -197,7 +197,7 @@ background-image:linear-gradient(#746d63,#0d20ed);
           <h3>React js Quiz</h3>
             <p>From: Feb 14, 2025 - To: Mar 15, 2025</p>
             <p>5 Questions | 50 sec Duration</p>
-            <a href="https://forms.gle/iKoRhR3izfXp5PLS7" class="play-button">Play</a>
+            <a href="#" class="play-button">Play</a>
         </div>
         <div class="column">
           <h2>TOP QUIZ!</h2>
@@ -205,7 +205,7 @@ background-image:linear-gradient(#746d63,#0d20ed);
           <h3>Biology 2025 Quiz</h3>
             <p>From: Feb 14, 2025 - To: Mar 15, 2027</p>
             <p>5 Questions | 50 sec Duration</p>
-            <a href="https://forms.gle/RkyACVf9SwSuqpocA" target="_self" class="play-button">play</a>
+            <a href="#" target="_self" class="play-button">play</a>
       </div>
     </div>
     <div class="row">
@@ -216,7 +216,7 @@ background-image:linear-gradient(#746d63,#0d20ed);
             <h3>Simple interest Quiz</h3>
             <p>From: Feb 17, 2025 - To: Feb 22, 2026</p>
             <p>5 Questions | 50 sec Duration</p>
-            <a href="https://forms.gle/sZcWw48u7PtcUnJb6" class="play-button">Play</a>
+            <a href="#" class="play-button">Play</a>
         </div>
         <div class="column">
           <h2>TOP QUIZ!</h2>
@@ -224,7 +224,7 @@ background-image:linear-gradient(#746d63,#0d20ed);
           <h3>Advanced Science Quiz</h3>
             <p>From: Feb 14, 2025 - To: Mar 15, 2025</p>
             <p>5 Questions | 50 sec Duration</p>
-            <a href="https://forms.gle/tpzQrCVV3vbnwahf8" class="play-button">Play</a>
+            <a href="#" class="play-button">Play</a>
         </div>
         <div class="column">
           <h2>TOP QUIZ!</h2>
@@ -232,7 +232,7 @@ background-image:linear-gradient(#746d63,#0d20ed);
           <h3>Javascript Quiz</h3>
             <p>From: Feb 14, 2025 - To: Mar 15, 2027</p>
             <p>5 Questions | 50 sec Duration</p>
-            <a href="https://forms.gle/RkyACVf9SwSuqpocA" target="_self" class="play-button">play</a>
+            <a href="#" target="_self" class="play-button">play</a>
       </div>
     </div>
     <div class="row">
@@ -243,7 +243,7 @@ background-image:linear-gradient(#746d63,#0d20ed);
             <h3>Python programming Quiz</h3>
             <p>From: Feb 17, 2025 - To: Feb 22, 2026</p>
             <p>5 Questions | 50 sec Duration</p>
-            <a href="https://forms.gle/4M3t2sqrFqfpYqg4A" class="play-button">Play</a>
+            <a href="#" class="play-button">Play</a>
         </div>
         <div class="column">
           <h2>TOP QUIZ!</h2>
@@ -251,7 +251,7 @@ background-image:linear-gradient(#746d63,#0d20ed);
           <h3>Problem on ages Quiz</h3>
             <p>From: Feb 14, 2025 - To: Mar 15, 2025</p>
             <p>5 Questions | 50 sec Duration</p>
-            <a href="https://forms.gle/z8cGWK7n8ZALChMq7" class="play-button">Play</a>
+            <a href="#" class="play-button">Play</a>
         </div>
         <div class="column">
           <h2>TOP QUIZ!</h2>
@@ -259,7 +259,7 @@ background-image:linear-gradient(#746d63,#0d20ed);
           <h3>C programming Quiz</h3>
             <p>From: Feb 14, 2025 - To: Mar 15, 2027</p>
             <p>5 Questions | 50 sec Duration</p>
-            <a href="https://forms.gle/RkyACVf9SwSuqpocA" target="_self" class="play-button">play</a>
+            <a href="#" target="_self" class="play-button">play</a>
       </div>
 	  <center>
 	  <div class="container d-flex justify-content-center">
